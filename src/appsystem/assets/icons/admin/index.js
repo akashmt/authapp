@@ -1,0 +1,6 @@
+export * from './IconCog'
+export * from './IconCogs'
+export * from './IconDatabase'
+export * from './IconPaintRoller'
+export * from './IconSlidersH'
+export * from './IconWrench'

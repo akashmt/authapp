@@ -1,0 +1,6 @@
+export * from './IconLocationArrow'
+export * from './IconMap'
+export * from './IconMapMarker'
+export * from './IconMapMarkerAlt'
+export * from './IconMapPin'
+export * from './IconThumbTack'

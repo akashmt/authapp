@@ -1,0 +1,4 @@
+export const CREATE_STEPS = 'CREATE_STEPS';
+export const SET_ACTIVE_STEP = 'SET_ACTIVE_STEP';
+export const SET_FORM_STEP_VALUE = 'SET_FORM_STEP_VALUE';
+
